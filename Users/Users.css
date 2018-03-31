@@ -1,0 +1,18 @@
+table {
+	border: 2px solid black;
+	
+}
+
+th {
+	padding-left : 60px;
+	word-spacing: 30px;
+}
+th:nth-child(4) {
+	padding-right : 60px;
+	
+}
+
+input {
+	display: block;
+	margin-bottom: 10px;
+}
